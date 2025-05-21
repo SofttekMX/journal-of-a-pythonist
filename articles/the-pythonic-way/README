@@ -1,0 +1,8 @@
+## The Pythonic Way
+
+"the good python code is like business logic" - Raymond Hettinger
+
+Python, al igual que otros lenguajes, cuenta con documentación oficial relacionada a nuevas implementaciones, cambios, recomendaciones y buenas prácticas de desarrollo, conocidas como PEP (Python Enhancement Proposal). La PEP8 es la referencia que contiene las normas o convenciones para escribir código que sea claro y conciso; y que a través de los años, la comunidad de Python ha adoptado y mejorado, resultando en lo que se considera el estilo "pitónico" (The Pythonic way).
+
+Así que escribir código que sea claro y comprensible, no solo como buena práctica sino como estilo de trabajo, es clave para cualquier proyecto (y su trascendencia). En este "post", mezcla de experiencia, algunas lecturas y práctica, me di a la tarea de consolidar algunos ejemplos de lo que en el mundo Python, se conoce como "The Pythonic Way".
+
